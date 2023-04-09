@@ -4,5 +4,5 @@
 # The program converts text to speech audible to the user
 # The audio is automatically saved as an mp3 file in the user's device.
 # The program is suitable for researchers, students, journalists and analysts from diverse fields e.t.c
-#*The project is owned by Tonny Wanjala Mulati*#
+#*The project is owned by Tonny Wanjala Mulati*
 # tonnymulati79@gmail.com
